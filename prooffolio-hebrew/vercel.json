@@ -1,9 +1,0 @@
-{
-  "installCommand": "npm ci --no-audit --no-fund --prefer-online",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist/public",
-  "framework": "vite",
-  "env": {
-    "NODE_ENV": "production"
-  }
-}
